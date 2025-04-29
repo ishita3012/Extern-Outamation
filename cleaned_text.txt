@@ -1,0 +1,9 @@
+problematic text file contains extra spaces special characters
+words misspelleddd encoding issues like problems.
+prices inconsistent 29.99 dollars 29.99 dollars 29.99 dollars.
+emails phone numbers may embedded contact domain.com .
+repeated punctuations removed along random symbols like .
+stopwords like the is a appear often.
+html tags might present this inside div
+sometimes contractions expand cannot will not should not .
+random numeric values .
